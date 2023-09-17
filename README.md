@@ -1,5 +1,5 @@
-# gym_customer_preferences_analysis
-This project involved the analysis of gym preferences starting from the responses to a survey we carried out. The total number of interviewees was of 136 gyms users.
+# analysis_gym_users_preferences
+This project involved the analysis of gym users' preferences starting from the responses to a survey we carried out. The total number of interviewees was of 136 gyms users.
 The main phases to investigate the preferences consisted in:
 
 1. the creation of a survey with behavioural and endogenous questions;
